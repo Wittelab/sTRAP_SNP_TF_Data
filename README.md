@@ -2,7 +2,7 @@
 Scripts &amp; Data for Predicting Transcription Factor Binding Sites Modulated by Single Nucleotide Polymorphisms
 
 Please cite the following publication if these data or scripts are used for new projects:  
-[Emami N.C., Cavazo T.B., et al. Large-Scale Association Study Detects Novel Rare Variants, Risk Genes Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility. Cancer Research 2020)
+[Emami N.C., Cavazos T.B., et al. Large-Scale Association Study Detects Novel Rare Variants, Risk Genes Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility. Cancer Research 2020)
 
 ## Getting Started 
 ### Installing Selenium
@@ -19,7 +19,7 @@ pip install selenium
 Step 2: Download Selenium WebDriver Application
 (see https://selenium-python.readthedocs.io/installation.html#drivers)
 
-Step 3: Move the WebDriver Application to your `Applications` folder
+Step 3: Move the WebDriver Application to your `Applications` folder, or in your $PATH
 
 ## Example Usage
 
